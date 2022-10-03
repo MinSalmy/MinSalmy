@@ -16,7 +16,7 @@
 <h2>Stats</h2>
 <div style="display=flex">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minsalmy)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsalmy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
