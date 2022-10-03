@@ -3,7 +3,7 @@
 <p>I graduate of Tomsk State University Faculty of Physics in the direction of information systems and technologies in space geodesy 🇷🇺</p>
 
 - 👀 I’m interested in and currently learning front-end and back-end web development. 
-- 💞️ I’m looking for an entry-level front-end web developer position. I wanna became a valuable team member. 
+- 💞️ I’m looking for an junior front-end web developer position. I wanna became a valuable team member. 
 
 <h2>Technologies & Tools</h2>
 
